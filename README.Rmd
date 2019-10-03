@@ -1,0 +1,21 @@
+---
+title: "customR"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<!-- badges: start -->
+[![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
+<!-- badges: end -->
+
+## customR: Custom and Random functions
+
+This is a pacakge made purely out of boredom + the need to practice creating packages in R. Many of the functions made here are based on help requests from stackoverflow and [/r/rstats](https://reddit.com/r/rstats).
+
+## Code of Conduct
+Please note that the 'customR' project is released with a
+[Contributor Code of Conduct](CODE_OF_CONDUCT.md).
+By contributing to this project, you agree to abide by its terms.
